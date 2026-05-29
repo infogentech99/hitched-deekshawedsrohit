@@ -272,9 +272,9 @@ export default function Home() {
           <div className="flex flex-col items-center text-center gap-6 mt-0  lg:pt-250 pt-150 md:pt-150">
 
  <img
-              src="/assets/jain.png"
+              src="/assets/jain.webp"
               alt="ganesh"
-              className="md:w-20 w-15 h-auto"
+              className="md:w-20 w-17 h-auto"
             />
 
 
@@ -287,7 +287,7 @@ export default function Home() {
           <div className="mt-8 text-center">
 
             <h2 className="text-white font-Cormorant-upright lg:text-[34px] md:text-2xl text-[26px]">
-              Invites
+              invites
             </h2>
             <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl text-[19px] mt-6">
               you to join us in the wedding celebrations of
